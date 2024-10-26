@@ -1,0 +1,12 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.codeGeneration.generateComments": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.customCommand": "Run",
+    "code-runner.runInTerminal": false,
+    "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+],
+"java.dependency.packagePresentation": "hierarchical"
+
+}
